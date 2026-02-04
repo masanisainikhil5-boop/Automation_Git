@@ -14,3 +14,6 @@ y = 200
 x = x+y
 console.log(x)
 
+//Relational Operators
+
+
