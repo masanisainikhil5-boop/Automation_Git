@@ -15,3 +15,5 @@ let add = function(a:number, b:number):number{
 }
 console.log(add(10,20))
 
+
+

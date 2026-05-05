@@ -69,4 +69,11 @@ function capitalizewords(arr:string[]):string[]
 }
 let words:string[] = ["john","smith","parker","steven"]
 console.log(capitalizewords(words)) //["JOHN","SMITH","PARKER","STEVEN"]
+
+//Array Constructor - 
+let arr1 = new Array(5) // This new assings a new memory location
+let arr2 = new Array(100,200,30,400,500)
+console.log(arr1)
+console.log(arr2)
+
     

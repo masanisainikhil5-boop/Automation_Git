@@ -1,6 +1,0 @@
--- Git common directory: /app/.git
--- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE) 
--- Could NOT find hwloc (missing: hwloc_LIBRARY hwloc_INCLUDE_DIR) 
--- Could NOT find cap (missing: cap_LIBRARY cap_INCLUDE_DIR) 
--- Configuring incomplete, errors occurred!
-See also "/app/build/CMakeFiles/CMakeOutput.log".
