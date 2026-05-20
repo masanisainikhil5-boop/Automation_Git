@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/masanisainikhil5-boop/Automation_Git.git"
@@ -19,6 +17,8 @@
   },
   "homepage": "https://github.com/masanisainikhil5-boop/Automation_Git#readme",
   "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0",
     "playwright": "^1.58.2"
   }
 }
